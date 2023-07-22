@@ -15,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yanamala ashok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanamala ashok" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/70321ashokrock?t=rvsfs2ahha1roqxm_z2jnw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/70321ashokrock?t=rvsfs2ahha1roqxm_z2jnw&s=09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yanamala-ashok-15707120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yanamala-ashok-15707120b/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/ashok_rockz_z_?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ashok_rockz_z_?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfozzfn0merur-4dxek-e1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfozzfn0merur-4dxek-e1w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanamalaashok&show_icons=true&locale=en" alt="yanamalaashok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanamalaashok&" alt="yanamalaashok" /></p>
+
 
 
