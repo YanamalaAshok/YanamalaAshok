@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanamalaashok&label=Profile%20views&color=0e75b6&style=flat" alt="yanamalaashok" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/70321ashokrock?t=rvsfs2ahha1roqxm_z2jnw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/70321ashokrock?t=rvsfs2ahha1roqxm_z2jnw&s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/70321ashokrock?t=rvsfs2ahha1roqxm_z2jnw&s=09" /></a> </p>
-
 - 🔭 I’m currently working on [BookHub-App](https://ashokbookhub.ccbp.tech/login)
 
 - 🌱 I’m currently learning **ReactJS and React Hooks**
