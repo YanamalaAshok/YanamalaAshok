@@ -2,8 +2,7 @@
 <h3 align="center">An aspiring Full Stack Developer with a passion for frontend and backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanamalaashok&label=Profile%20views&color=0e75b6&style=flat" alt="yanamalaashok" /> </p>
-<img src="![image](https://github.com/YanamalaAshok/YanamalaAshok/assets/103019879/a0ad8204-7450-4a20-a18c-e44b88b27b6d)
-" align="right" alt="image"/>
+<img src="https://res.cloudinary.com/dgdjtcfos/image/upload/v1690027606/39256845_c2vh07.jpg" align="right" alt="image"/>
 
 - 🔭 I’m currently working on [BookHub-App](https://ashokbookhub.ccbp.tech/login)
 
