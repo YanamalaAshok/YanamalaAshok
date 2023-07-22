@@ -2,8 +2,8 @@
 <h3 align="center">An aspiring Full Stack Developer with a passion for frontend and backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanamalaashok&label=Profile%20views&color=0e75b6&style=flat" alt="yanamalaashok" /> </p>
-<img src="https://res.cloudinary.com/dgdjtcfos/image/upload/v1690027606/39256845_c2vh07.jpg" align="right" alt="image"/>
-
+<!-- <img src="https://res.cloudinary.com/dgdjtcfos/image/upload/v1690027606/39256845_c2vh07.jpg" align="right" alt="image/>
+ -->
 - 🔭 I’m currently working on [BookHub-App](https://ashokbookhub.ccbp.tech/login)
 
 - 🌱 I’m currently learning **ReactJS and React Hooks**
